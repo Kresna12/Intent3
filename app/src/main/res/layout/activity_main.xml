@@ -21,7 +21,7 @@
 
 
     <ImageView
-        android:id="@+id/imageVieSMS"
+        android:id="@+id/imageViewSMS"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_weight="1"
@@ -29,7 +29,7 @@
 
 
     <ImageView
-        android:id="@+id/imageBrowser"
+        android:id="@+id/imageViewBrowser"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_weight="1"
